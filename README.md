@@ -1,9 +1,3 @@
-# bank_churn_PowerBI
-Here’s a **clean, professional GitHub README** written **specifically for your Bank Customer Churn Analysis – Power BI project**.
-You can **directly copy-paste this into your GitHub `README.md`**.
-
----
-
 # 🏦 Bank Customer Churn Analysis Dashboard – Power BI Project
 
 This project presents an **interactive Power BI dashboard** designed to analyze **customer churn and retention patterns** in the banking sector.
